@@ -1,13 +1,15 @@
-# traffic-lights1
+# traffic-lights
 
 ## Project setup
 ```
 yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
 yarn serve
+npm start
 ```
 
 ### Compiles and minifies for production
